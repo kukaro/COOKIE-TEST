@@ -1,0 +1,1 @@
+cd main-js && npm install && cd ../sub-js && npm install
